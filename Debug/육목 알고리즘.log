@@ -1,0 +1,4 @@
+﻿  connect6.cpp
+d:\documents\visual studio 2015\projects\육목 알고리즘\육목 알고리즘\connect6.cpp(256): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+  육목 알고리즘.vcxproj -> D:\Documents\Visual Studio 2015\Projects\육목 알고리즘\Debug\육목 알고리즘.exe
+  육목 알고리즘.vcxproj -> D:\Documents\Visual Studio 2015\Projects\육목 알고리즘\Debug\육목 알고리즘.pdb (Partial PDB)
